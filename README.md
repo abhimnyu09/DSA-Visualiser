@@ -201,9 +201,9 @@ Contributions are welcome! Here's how you can help:
 ## 👨‍💻 Author
 
 **Abhimanyu Sharma**
-- GitHub: [@abhimnyu09](https://github.com/abhimnyu09)
-- LinkedIn: [LinkedIn](linkedin.com/in/abhimanyu-sharma-2b2130292)
-- Email: your.email@example.com
+- GitHub: [abhimnyu09](https://github.com/abhimnyu09)
+- LinkedIn: [abhimnyu09](linkedin.com/in/abhimanyu-sharma-2b2130292)
+- Email: abhikaushik254@gmail.com
 
 ## 🙏 Acknowledgments
 

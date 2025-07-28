@@ -66,41 +66,45 @@ A comprehensive **Data Structures and Algorithms Visualizer** built with Next.js
 
 ### Prerequisites
 
-- Node.js 18+ 
-- npm or yarn package manager
+-   Node.js (version 18 or higher)
+-   `npm` or `yarn` package manager
 
+---
 ### Installation
 
-1. **Clone the repository**
-   \`\`\`bash
-   git clone https://github.com/yourusername/dsa-visualizer.git
-   cd dsa-visualizer
-   \`\`\`
+1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/abhimnyu09/dsa-visualizer.git](https://github.com/abhimnyu09/dsa-visualizer.git)
+    cd dsa-visualizer
+    ```
 
-2. **Install dependencies**
-   \`\`\`bash
-   npm install
-   # or
-   yarn install
-   \`\`\`
+2.  **Install dependencies**
+    ```bash
+    # Using npm
+    npm install
+    
+    # Or using yarn
+    yarn install
+    ```
 
-3. **Run the development server**
-   \`\`\`bash
-   npm run dev
-   # or
-   yarn dev
-   \`\`\`
+3.  **Run the development server**
+    ```bash
+    npm run dev
+    ```
 
-4. **Open your browser**
-   Navigate to [http://localhost:3000](http://localhost:3000)
+4.  **Open your browser** and navigate to `http://localhost:3000`.
 
+---
 ### Build for Production
 
-\`\`\`bash
-npm run build
-npm start
-\`\`\`
+To create a production-ready version of the app:
 
+```bash
+# Build the application
+npm run build
+
+# Start the production server
+npm start
 ## 📖 Usage Guide
 
 ### Basic Navigation

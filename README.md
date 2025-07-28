@@ -105,37 +105,41 @@ npm run build
 
 # Start the production server
 npm start
-## 📖 Usage Guide
+```
+
+### 📖 Usage Guide
 
 ### Basic Navigation
 1. **Select Category** - Choose from Sorting, Searching, Data Structures, etc.
-2. **Pick Algorithm** - Select the specific algorithm to visualize
-3. **Configure Input** - Set array size, input values, or use random generation
-4. **Control Playback** - Use play/pause buttons and speed controls
-5. **Step Through** - Use step-by-step mode for detailed analysis
+2. **Pick Algorithm** - Select the specific algorithm to visualize.
+3. **Configure Input** - Set array size, input values, or use random generation.
+4. **Control Playback** - Use play/pause buttons and speed controls.
+5. **Step Through** - Use step-by-step mode for detailed analysis.
 
+---
 ### Algorithm-Specific Features
 
 #### Sorting Algorithms
-- Adjust array size (5-50 elements)
-- Generate random arrays or input custom values
-- Watch elements being compared and swapped in real-time
+- Adjust array size (5-50 elements).
+- Generate random arrays or input custom values.
+- Watch elements being compared and swapped in real-time.
 
 #### Graph Algorithms
-- Add vertices and edges interactively
-- Choose between directed and undirected graphs
-- Visualize traversal paths with different colors
+- Add vertices and edges interactively.
+- Choose between directed and undirected graphs.
+- Visualize traversal paths with different colors.
 
 #### Dynamic Programming
-- Select different approaches (tabulation vs memoization)
-- See the DP table being filled step by step
-- Compare time and space complexities
+- Select different approaches (tabulation vs. memoization).
+- See the DP table being filled step by step.
+- Compare time and space complexities.
 
 #### Backtracking
-- Generate random problem instances
-- Watch the algorithm explore and backtrack
-- See the final solution highlighted
+- Generate random problem instances.
+- Watch the algorithm explore and backtrack.
+- See the final solution highlighted.
 
+---
 ## 🎯 Key Features Explained
 
 ### Visual Elements
@@ -152,6 +156,7 @@ npm start
 - ⏭️ **Step**: Execute one step at a time
 - 🎚️ **Speed**: Adjust animation speed
 
+---
 ## 📱 Responsive Design
 
 The application is fully responsive and works seamlessly across:
@@ -159,31 +164,26 @@ The application is fully responsive and works seamlessly across:
 - 📱 **Tablet** (768px - 1023px)
 - 📱 **Mobile** (320px - 767px)
 
+---
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
 
 ### Ways to Contribute
-1. **Report Bugs** - Open an issue with bug details
-2. **Suggest Features** - Propose new algorithms or improvements
-3. **Submit Pull Requests** - Fix bugs or add new features
-4. **Improve Documentation** - Enhance README or code comments
+1. **Report Bugs** - Open an issue with bug details.
+2. **Suggest Features** - Propose new algorithms or improvements.
+3. **Submit Pull Requests** - Fix bugs or add new features.
+4. **Improve Documentation** - Enhance README or code comments.
 
 ### Development Setup
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add amazing feature'`)
-5. Push to the branch (`git push origin feature/amazing-feature`)
-6. Open a Pull Request
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature/amazing-feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add amazing feature'`).
+5. Push to the branch (`git push origin feature/amazing-feature`).
+6. Open a Pull Request.
 
-### Code Style
-- Use TypeScript for type safety
-- Follow React best practices
-- Use meaningful variable names
-- Add comments for complex logic
-- Ensure responsive design
-
+---
 ## 📋 Roadmap
 
 ### Upcoming Features
@@ -193,26 +193,27 @@ Contributions are welcome! Here's how you can help:
 - [ ] **Algorithm Comparison**: Side-by-side algorithm comparison
 - [ ] **Code Display**: Show actual algorithm code alongside visualization
 - [ ] **Performance Metrics**: Real-time performance statistics
-- [ ] **Custom Input**: Upload custom datasets
-- [ ] **Sharing**: Share visualizations via URL
 
+---
 ## 🐛 Known Issues
 
-- Large datasets (>100 elements) may cause performance issues
-- Some animations may not work smoothly on older browsers
-- Mobile touch interactions could be improved
+- Large datasets (>100 elements) may cause performance issues.
+- Some animations may not work smoothly on older browsers.
+- Mobile touch interactions could be improved.
 
+---
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the **LICENSE** file for details.
 
+---
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [abhimnyu09](https://github.com/abhimnyu09)
-- LinkedIn: [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/abhimanyu-sharma-2b2130292?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaU%2FUM9EqTLyUHmVxmrsRUA%3D%3D))
-- Email: your.email@example.com
+**Abhimanyu Sharma**
+- **GitHub**: [@abhimnyu09](https://github.com/abhimnyu09)
+- **LinkedIn**: [Abhimanyu Sharma](https://www.linkedin.com/in/abhimanyu-sharma-2b2130292)
 
+---
 ## 🙏 Acknowledgments
 
 - [Next.js](https://nextjs.org/) - React framework
@@ -221,11 +222,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Lucide React](https://lucide.dev/) - Beautiful icons
 - Algorithm visualizations inspired by [VisuAlgo](https://visualgo.net/)
 
+---
 ## ⭐ Show Your Support
 
 If this project helped you learn DSA concepts, please give it a ⭐ on GitHub!
-
----
 
 **Made with ❤️ for the developer community**
 

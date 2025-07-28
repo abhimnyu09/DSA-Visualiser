@@ -2,7 +2,7 @@
 
 A comprehensive **Data Structures and Algorithms Visualizer** built with Next.js, React, and TypeScript. This interactive web application helps students and developers understand complex algorithms through step-by-step visual animations.
 
-![DSA Visualizer Demo](https://dsa-visualiser-psi.vercel.app/)
+[DSA Visualizer Demo](https://dsa-visualiser-psi.vercel.app/)
 
 ## ✨ Features
 

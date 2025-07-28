@@ -202,11 +202,7 @@ Contributions are welcome! Here's how you can help:
 - Mobile touch interactions could be improved.
 
 ---
-## 📄 License
 
-This project is licensed under the MIT License - see the **LICENSE** file for details.
-
----
 ## 👨‍💻 Author
 
 **Abhimanyu Sharma**
